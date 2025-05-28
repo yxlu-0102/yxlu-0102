@@ -1,5 +1,5 @@
 ## Hi There, This is Rory Lu's Github 👋
-- 🎓 Fourth-year Eng.D Student at the University of Science and Technology of China.
+- 🎓 Second-year Eng.D Student at the University of Science and Technology of China.
 - 🔭 Speech Enhancement & Text-to-Speech.
 - My personal homepage is available at [https://yxlu-0102.github.io](https://yxlu-0102.github.io).
 
